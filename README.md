@@ -1,0 +1,1 @@
+A setup to quickly spin up WordPress locally.
